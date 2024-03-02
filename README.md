@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Hari
 
 Software Developer @ [KGiSL](https://www.kgisl.com/)
-<img align="right" width="370" height="290" src="https://tenor.com/bhyCn.gif">
 
 - 🔭 I’m currently working on [Odoo](https://www.odoo.com/)
 - 🌱 I’m currently learning Rasa/BlockChain
