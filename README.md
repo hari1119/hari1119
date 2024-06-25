@@ -27,6 +27,3 @@ Software Developer @ [KGiSL](https://www.kgisl.com/)
 ### Devops
 <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/><img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/><img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-gitlab-project-planning-and-source-code-management-logo-shadow-tal-revivo.png" alt="external-gitlab-project-planning-and-source-code-management-logo-shadow-tal-revivo"/>
 
-### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/hariprasathjtj%40gmail.com?theme=dark&font=Reggae%20One&ext=contest)
-
