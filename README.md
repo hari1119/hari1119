@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Hari
 
-Software Developer @ [KGiSL](https://www.kgisl.com/)
+Software Developer @ [Aspireal Tech](https://aspireal.com/) , [KGiSL](https://www.kgisl.com/)
 
 - 🔭 I’m currently working on [Odoo](https://www.odoo.com/)
 - 🌱 I’m currently learning Rasa/BlockChain
